@@ -32,8 +32,8 @@ src/
 - IDE (IntelliJ, Eclipse, VSCode, etc.)
 
 ### 1. Clone the repository
-```bash
-git clone 
+```bash 
+git clone https://github.com/DhanashreeParate/SpringBoot-Project/tree/DhanashreeParate-enpointe
 
 ### 2. Build the project
 mvn clean install
@@ -61,4 +61,5 @@ DELETE	  /api/employee/{id}	  Delete employee
 ---
 ### Running Tests
 test cases written in Junit for controller class
-<img width="1815" height="458" alt="image" src="https://github.com/user-attachments/assets/0d0be56a-1e99-4272-8b92-1fc1c72e7872" />
+<img width="1815" height="477" alt="image" src="https://github.com/user-attachments/assets/8dfc38d2-3a7e-45d4-9ddb-a8e0feb362a2" />
+
